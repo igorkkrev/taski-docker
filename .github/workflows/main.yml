@@ -52,7 +52,7 @@ jobs:
         cd backend/
         python manage.py test
 
-# .github/workflows/main.yml
+# .github/workflows/main.yml 
 
 # Тут задачи тестирования и сборки образа
 # ...
